@@ -175,8 +175,3 @@ The dataset contains the following columns:
 | positive | 1 | torch.tensor([1]) |
 | negative | 0 | torch.tensor([0]) |
 
-### Dataset Statistics
-- **Average Review Length**: [Number] tokens
-- **Vocabulary Coverage**: [Percentage]% of tokens in vocabulary
-- **Class Balance**: [Percentage]% positive, [Percentage]% negative
-- **Sequence Length Distribution**: Normal/Gaussian distribution around mean length
